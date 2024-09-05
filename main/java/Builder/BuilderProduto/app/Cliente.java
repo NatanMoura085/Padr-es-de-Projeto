@@ -1,7 +1,6 @@
 package Builder.BuilderProduto.app;
 
 import Builder.BuilderProduto.builder.PS4Builder;
-import Builder.BuilderProduto.model.Produto;
 
 public class Cliente {
     public static void main(String[] args) {
